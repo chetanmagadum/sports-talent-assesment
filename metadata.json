@@ -1,0 +1,11 @@
+{
+  "name": "AI Sports Talent Assessment Platform",
+  "description": "Democratizing grassroots sports talent assessment with AI computer vision pose analysis, authenticity detection, and offline synchronization for rural athletes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
